@@ -1,5 +1,10 @@
 # 💫 About Me:
-## About Me:<br><br>- 🔭 I'm currently working on a **banking software** and a personal side project: [truck-fleet-manager](https://github.com/babolinGiordano/truck-fleet-manager)<br>- 👯 I'd love to collaborate on **open source projects** (when time allows between work and family! 😅)<br>- 🤝 I'm looking for help with **code reviews** on my truck-fleet-manager project, especially for backend and testing<br>- 🌱 I'm currently learning **Angular Signals**, **NestJS** and sharpening my skills in **Ethical Hacking & CTF challenges** 🏴‍☠️<br>- 💬 Ask me about **Angular** and **Frontend Development**<br>- ⚡ Fun fact: I love reading fantasy & thrillers (Dan Brown, Glenn Cooper fan here! 📚), I'm a former football player still playing tournaments with friends, and I'm currently training for my first **marathon** 🏃‍♂️
+- 🔭 I'm currently working on a **banking software** and a personal side project: [truck-fleet-manager](https://github.com/babolinGiordano/truck-fleet-manager)<br>
+- 👯 I'd love to collaborate on **open source projects** (when time allows between work and family! 😅)<br>
+- 🤝 I'm looking for help with **code reviews** on my truck-fleet-manager project, especially for backend and testing<br>
+- 🌱 I'm currently learning **Angular Signals**, **NestJS** and sharpening my skills in **Ethical Hacking & CTF challenges** 🏴‍☠️<br>
+- 💬 Ask me about **Angular** and **Frontend Development**<br>
+- ⚡ Fun fact: I love reading fantasy & thrillers (Dan Brown, Glenn Cooper fan here! 📚), I'm a former football player still playing tournaments with friends, and I'm currently training for my first **marathon** 🏃‍♂️
 
 
 ## 🌐 Socials:
